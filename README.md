@@ -38,8 +38,7 @@ Usage
 
     Open your web browser and navigate to the index.html file.
     Use the calculator to perform basic arithmetic calculations.
-    View the history of previous calculations for reference.
-    Toggle dark mode for comfortable usage during nighttime.
+
 
 Author
 
